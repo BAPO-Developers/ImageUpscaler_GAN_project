@@ -152,9 +152,5 @@ cython_debug/
 #.idea/
 
 
-
-
-pictures/*
-
 xlsxs/*.xlsx
 *.pdf
