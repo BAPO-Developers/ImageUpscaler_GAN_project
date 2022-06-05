@@ -155,5 +155,6 @@ cython_debug/
 
 
 pictures/*
-!pictures/Original/.gitkeep
+
 xlsxs/*.xlsx
+*.pdf
